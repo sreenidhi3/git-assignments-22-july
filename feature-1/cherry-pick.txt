@@ -1,0 +1,2 @@
+The main motive of a cherry-pick is to apply the changes introduced by some existing commit. 
+A cherry-pick looks at a previous commit in the repository history and update the changes that were part of that last commit to the current working tree.
